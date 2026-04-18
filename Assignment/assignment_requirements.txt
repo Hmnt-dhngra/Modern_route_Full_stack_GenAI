@@ -1,0 +1,8 @@
+beautifulsoup4
+selenium
+webdriver-manager
+nltk
+scikit-learn
+
+
+https://www.amazon.in/Rich-Dad-Poor-Middle-Anniversary/dp/1612681131
