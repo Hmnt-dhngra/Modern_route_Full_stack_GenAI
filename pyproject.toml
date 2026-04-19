@@ -11,6 +11,7 @@ dependencies = [
     "langchain-google-genai>=4.2.1",
     "langchain-openai>=1.1.12",
     "mteb>=1.12.5",
+    "nltk>=3.9.4",
     "numpy==1.26.4",
     "pillow>=10.2.0",
     "rank-bm25==0.2.2",

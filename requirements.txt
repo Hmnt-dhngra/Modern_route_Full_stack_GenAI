@@ -14,3 +14,4 @@ mteb
 ipykernel
 langchain_google_genai
 langchain-openai
+nltk
