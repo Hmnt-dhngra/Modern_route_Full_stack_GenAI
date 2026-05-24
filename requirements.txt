@@ -18,6 +18,7 @@ nltk
 pyyaml
 langchain_google_genai
 langchain-openai
+langchain-anthropic
 langchain-groq
 langchain-openrouter
 langchain-huggingface
