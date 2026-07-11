@@ -30,3 +30,13 @@ python-docx
 pandas
 openpyxl
 beautifulsoup4
+jq
+unstructured
+docx2txt
+markdown
+pymupdf
+pdfplumber
+tabulate
+pytesseract
+docling
+hf_xet ## faster downloads with docling
