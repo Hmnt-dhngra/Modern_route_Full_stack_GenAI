@@ -40,3 +40,4 @@ tabulate
 pytesseract
 docling
 hf_xet ## faster downloads with docling
+faiss-cpu
