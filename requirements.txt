@@ -39,5 +39,7 @@ pdfplumber
 tabulate
 pytesseract
 docling
+langchain-docling
 hf_xet ## faster downloads with docling
 faiss-cpu
+llama-cloud
