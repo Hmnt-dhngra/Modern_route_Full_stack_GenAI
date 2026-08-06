@@ -43,3 +43,7 @@ langchain-docling
 hf_xet ## faster downloads with docling
 faiss-cpu
 llama-cloud
+langchain-chroma
+pinecone
+langchain-pinecone
+matplotlib
